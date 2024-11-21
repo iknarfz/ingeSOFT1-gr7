@@ -1,0 +1,12 @@
+# Archivos del sistema
+*.log
+*.tmp
+
+# Dependencias específicas
+node_modules/
+venv/
+__pycache__/
+
+# Configuraciones del IDE
+.vscode/
+.idea/
