@@ -1,7 +1,7 @@
 # Repositorio grupal - Ingeniería de Software 1 - 2024-2 Grupo 7.
-Kevin David Rodriguez Riveros 
-Frank Sebastian Pardo Amaya
-Jorge Andrés Torres Leal
+- Kevin David Rodriguez Riveros
+- Frank Sebastian Pardo Amaya
+- Jorge Andrés Torres Leal
 
 NOMBRE DEL PROYECTO: POR DEFINIR
 
