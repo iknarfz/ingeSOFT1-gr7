@@ -18,7 +18,7 @@ b. Frameworks: JavaFX y SceneBuilder
 
 c. Servicios externos: MySQL
 
-Información general del repositorio:
+## Información general del repositorio:
 Este repositorio contiene documentos, tareas y proyectos desarrollados en el curso Ingeniería de Software 1 (2026701) 
 ## Contenido  
 - **Documentación:** Archivos técnicos y organizativos como historias de usuario y diagramas.  
