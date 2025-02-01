@@ -1,12 +1,57 @@
-# Archivos del sistema
-*.log
-*.tmp
+# Ignorar archivos de compilación de Java
+*.class
+*.jar
+*.war
+*.ear
 
-# Dependencias específicas
-node_modules/
-venv/
-__pycache__/
+# Ignorar directorios de compilación de Eclipse
+/.classpath
+/.project
+/.settings/
+/bin/
+/target/
 
-# Configuraciones del IDE
-.vscode/
+# Ignorar archivos de Maven descargados automáticamente
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.m2/
+
+# Ignorar archivos de JavaFX Scene Builder
+*.fxml~
+*.backup.fxml
+/.scenebuilder/
+
+# Ignorar archivos de configuración de IDEs
 .idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de MySQL y credenciales
+*.sql
+*.log
+.env
+config.properties
+database.properties
+
+# Ignorar logs y archivos de depuración
+logs/
+*.log
+hs_err_pid*
+replay_pid*
+
+# Ignorar archivos de control de versiones internos de Eclipse
+.metadata/
+.recommenders/
