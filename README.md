@@ -8,7 +8,7 @@
 ## Descripción del proyecto: 
 Es un sistema de gestión de inventarios diseñado para facilitar el registro, control y seguimiento de productos dentro de una empresa o negocio. Permite a los usuarios registrar nuevas entradas de productos con información clave como nombre, código, precios, cantidad, lote y fecha de vencimiento. Además, cuenta con un módulo de reportes que permite visualizar y filtrar el inventario según diversos criterios, mejorando la toma de decisiones y optimizando la administración de existencias.
 
-Con una interfaz intuitiva y funciones prácticas, InvenTrack ayuda a reducir pérdidas por errores en el control de stock, mejorar la eficiencia operativa y garantizar un manejo organizado de los productos.
+Con una interfaz intuitiva y funciones prácticas, StockEase ayuda a reducir pérdidas por errores en el control de stock, mejorar la eficiencia operativa y garantizar un manejo organizado de los productos.
 
 ## Tecnologías usadas: 
 
