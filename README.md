@@ -12,11 +12,11 @@ Con una interfaz intuitiva y funciones prácticas, InvenTrack ayuda a reducir p�
 
 ## Tecnologías usadas: 
 
-a. Lenguajes de programación: Java
+- **a. Lenguajes de programación:** Java
 
-b. Frameworks: JavaFX y SceneBuilder
+- **b. Frameworks:** JavaFX y SceneBuilder
 
-c. Servicios externos: MySQL
+- **c. Servicios externos:** MySQL
 
 ## Información general del repositorio:
 Este repositorio contiene documentos, tareas y proyectos desarrollados en el curso Ingeniería de Software 1 (2026701) 
@@ -31,4 +31,4 @@ Este repositorio contiene documentos, tareas y proyectos desarrollados en el cur
 - **Proyecto:** Archivos relacionados al desarrollo del proyecto final.  
 
 ## Autores  
-- **Usuario de GitHub:** iknarfz  , jtorresle , 
+- **Usuario de GitHub:** iknarfz  , jtorresle , kedarorixd
