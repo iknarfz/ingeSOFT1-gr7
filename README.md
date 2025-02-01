@@ -31,4 +31,4 @@ Este repositorio contiene documentos, tareas y proyectos desarrollados en el cur
 - **Proyecto:** Archivos relacionados al desarrollo del proyecto final.  
 
 ## Autores  
-- **Usuario de GitHub:** iknarfz  
+- **Usuario de GitHub:** iknarfz  , jtorresle , 
